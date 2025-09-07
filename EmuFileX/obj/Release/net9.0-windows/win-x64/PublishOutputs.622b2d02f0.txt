@@ -1,0 +1,2 @@
+C:\Users\Administrator\source\repos\EmuFileX\EmuFileX\bin\Release\net9.0-windows\publish\win-x64\EmuFileX.pdb
+C:\Users\Administrator\source\repos\EmuFileX\EmuFileX\bin\Release\net9.0-windows\publish\win-x64\EmuFileX.exe
