@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/mMUmCK2kjM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\EmuFileX\\EmuFileX\\EmuFileX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
